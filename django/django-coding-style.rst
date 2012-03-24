@@ -17,8 +17,8 @@ Python хэлбэр
 
 
 
-_pep8: http://pypi.python.org/pypi/pep8
-_pyflakes: http://pypi.python.org/pypi/pyflakes
-_pylint: http://pypi.python.org/pypi/pylint
+.. _pep8: http://pypi.python.org/pypi/pep8
+.. _pyflakes: http://pypi.python.org/pypi/pyflakes
+.. _pylint: http://pypi.python.org/pypi/pylint
 
 
